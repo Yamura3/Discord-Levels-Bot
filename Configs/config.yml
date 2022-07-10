@@ -6,7 +6,7 @@
 
 # NOTE: BOT_TOKEN DETAILS ARE STORED IN THE .env FILE!
 # The prefix for the bots commands
-Prefix: "!"
+Prefix: "?"
 
 # Determines the database type to use. Note: MongoDB requires the details to be stored inside the .env file! **Note: Local is recommended**
 # MongoDB / Local
@@ -22,7 +22,7 @@ loader_type: "message"
 
 # The default background for each user when they get added to the database || Please do not leave this as nothing!! If you get errors, it means the url is invalid.
 # I recommend using imgur to get the link for your background.
-Default_Background: "https://coolbackgrounds.io/images/backgrounds/black/pure-black-background-f82588d3.jpg"
+Default_Background: "https://imgs.search.brave.com/4DrSglsGHRB-8m0rBqpH6d97Xw2KNRsOkf20CYAAPHI/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5J/Y1ptTWJnXzVQZkdZ/YlZ1ZnM1Snl3SGFF/SyZwaWQ9QXBp"
 
 # Default XP Colour for each user when they get added to the database
 Default_XP_Colour: "#ffffff"
