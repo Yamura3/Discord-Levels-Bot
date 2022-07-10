@@ -13,7 +13,7 @@ Prefix: "?"
 Database_Type: "mongodb"
 
 # Member ID of the bot owner (In most cases, whoever is reading this sentence right now AKA you.) **YOU WILL RECEIVE ERRORS IF THIS IS NOT FILLED**
-Bot_Owner: "512760269764820993"
+Bot_Owner: "877933841170432071"
 
 # How the bot adds users to the database when the bot starts
 # startup - Adds all missing users to the database when the bot starts (Recommended for those with smaller member amounts - Not great performance for large servers)
@@ -53,7 +53,7 @@ XP_Chance_Rate: 2
 xp_type: 'ranrange'
 
 # The amount of xp a user gets when they send a message -- This is only used if the xp_type is set to 'normal'
-xp_normal_amount: 10
+xp_normal_amount: 5
 
 # The minimum amount of xp a user can gain -- This is only used if the xp_type is set to 'ranrange'
 xp_ranrange_min: 5
@@ -83,7 +83,7 @@ rank_alias: ['r', 'level', 'l', 'stats', 'xp', 'progress']
 level_up_ping: True
 
 # The background image for the level up card
-level_up_background: "https://wallpaperaccess.com/full/4956346.jpg"
+level_up_background: "https://imgs.search.brave.com/4DrSglsGHRB-8m0rBqpH6d97Xw2KNRsOkf20CYAAPHI/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5J/Y1ptTWJnXzVQZkdZ/YlZ1ZnM1Snl3SGFF/SyZwaWQ9QXBp"
 
 # The amount of blur on the background image for the level up card
 level_up_blur: 10
